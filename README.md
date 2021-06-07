@@ -47,6 +47,12 @@ As output you will have output_code3.xlsx (new columns 'message_sent')
 # Clean : 
 You only need to run that script if you want to send new messages because that script will set <br>
 all values of column 'message_sent' as 0.
+<br>
 
+# License 
+
+```
+This project is licensed under the MIT License - see the LICENSE.md file for details. 
+```
 
 
